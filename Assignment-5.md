@@ -1,5 +1,7 @@
 # **CS 161A: Programming and Problem Solving I**
 
+# Assignment 5: Pizza Party
+
 ## Purpose
 
 In this assignment you will be entering the number of people attending, the average number of slices per person and the cost of one pizza and you will continue asking the user for the number of people attending, the average number of slices per person and the cost of one pizza until they are done. While the user wants to add more input, you will add the data to **accumulators** (an accumulator is a variable the program uses to calculate a sum or product of a series of values) to perform statistical analysis after they are done.
