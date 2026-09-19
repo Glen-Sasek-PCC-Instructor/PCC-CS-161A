@@ -4,7 +4,7 @@ Course assignments, exams, examples, and reference materials for CS 161A.
 
 ## Course Information
 
-- [Course overview and learning outcomes](README.md)
+- [Course overview and learning outcomes](README.html)
 - [Pseudocode reference](Pseudocode-Reference.txt)
 - [C++ style guide](C%2B%2B%20Style%20Guide.pdf)
 - [Assignment and exam rubric](CS%20161A_B%20Assignment%20and%20Exam%20Rubric%20(C%2B%2B).pdf)
