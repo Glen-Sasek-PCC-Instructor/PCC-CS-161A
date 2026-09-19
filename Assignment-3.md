@@ -1,5 +1,3 @@
-# **CS 161A: Programming and Problem Solving I**
-
 # Assignment 3: Washington State Ferries
 
 ## Introduction

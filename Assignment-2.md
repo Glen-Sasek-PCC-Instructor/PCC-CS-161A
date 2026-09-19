@@ -1,5 +1,3 @@
-# **CS 161A: Programming and Problem Solving I**
-
 # Assignment 2: How many Calories?
 
 ## Introduction

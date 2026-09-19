@@ -1,5 +1,3 @@
-# **CS 161A: Programming and Problem Solving I**
-
 # Assignment 8: Grade Calculations using Reference Parameters
 
 ## Introduction

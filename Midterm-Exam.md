@@ -1,5 +1,3 @@
-# **CS 161A: Programming and Problem Solving I**
-
 # Midterm Exam 
 
 It’s that time again \- the Rock Collecting Championships are here\! Who will win the top three prizes?  
