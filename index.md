@@ -9,20 +9,20 @@ Course assignments, exams, examples, and reference materials for CS 161A.
 
 ## Assignments
 
-1. [Weekly Payroll](Assignment-1.md) | [Sample code](a1-sample.cpp)
-2. [How Many Calories?](Assignment-2.md) | [Sample code](a2-sample.cpp)
-3. [Washington State Ferries](Assignment-3.md) | [Sample code](a3-sample.cpp)
-4. [Phrases and Subphrases](Assignment-4.md) | [Sample code](a4-sample.cpp)
-5. [Pizza Party](Assignment-5.md) | [Sample code](a5-sample.cpp)
-6. [Vending Machine](Assignment-6.md) | [Sample code](a6-sample.cpp)
-7. [Grade Calculations](Assignment-7.md) | [Sample code](a7-sample.cpp)
-8. [Grade Calculations Using Reference Parameters](Assignment-8.md) | [Sample code](a8-sample.cpp)
-9. [Find Min and Max Using Functions](Assignment-9.md) | [Sample code](a9-sample.cpp)
+1. [Weekly Payroll](Assignment-1.html) | [Sample code](a1-sample.cpp)
+2. [How Many Calories?](Assignment-2.html) | [Sample code](a2-sample.cpp)
+3. [Washington State Ferries](Assignment-3.html) | [Sample code](a3-sample.cpp)
+4. [Phrases and Subphrases](Assignment-4.html) | [Sample code](a4-sample.cpp)
+5. [Pizza Party](Assignment-5.html) | [Sample code](a5-sample.cpp)
+6. [Vending Machine](Assignment-6.html) | [Sample code](a6-sample.cpp)
+7. [Grade Calculations](Assignment-7.html) | [Sample code](a7-sample.cpp)
+8. [Grade Calculations Using Reference Parameters](Assignment-8.html) | [Sample code](a8-sample.cpp)
+9. [Find Min and Max Using Functions](Assignment-9.html) | [Sample code](a9-sample.cpp)
 
 ## Exams
 
-- [Midterm exam](Midterm-Exam.md)
-- [Final exam](Final-Exam.md)
+- [Midterm exam](Midterm-Exam.html)
+- [Final exam](Final-Exam.html)
 
 ## Starter Code
 
