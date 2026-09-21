@@ -73,6 +73,7 @@ After completing this assignment you will be able to:
   * You must implement the functions with the appropriate parameters and return types mentioned above under Task.
 
 * Test your program using the following sample runs, making sure you get the same output when using the given inputs:
+
 ```
 Welcome to my Final Grade Calculator!
 Please enter the following information and I will calculate your Final Numerical Grade and Letter Grade for you!
