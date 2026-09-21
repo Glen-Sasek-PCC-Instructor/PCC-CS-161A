@@ -1,5 +1,3 @@
-# PCC CS 161A: Programming I
-
 Course assignments, exams, examples, and reference materials for CS 161A.
 
 ## Course Information
