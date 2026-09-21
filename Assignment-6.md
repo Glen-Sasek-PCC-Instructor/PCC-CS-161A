@@ -22,7 +22,7 @@ After completing this assignment you will be able to:
 
   * Then present a menu to the user (see Sample Run below) for Coffee, Tea or Quit. If the user chooses Quit, output the balance, and quit the program. Your program must use upper and lower case letters. Cost of coffee and tea is $0.25 each.
 
-  * If the input is not valid, print an error message and prompt again. Continue to give an error message and prompt until the user enters a valid choice. Please see [Sample6 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a6-sample.cpp) for all data validation examples.
+  * If the input is not valid, print an error message and prompt again. Continue to give an error message and prompt until the user enters a valid choice. Please see [Sample6 Code](a6-sample.cpp) for all data validation examples.
 
   * Prompt the user for the quantity and validate. If the input is not valid, print an error message and prompt again. Continue to give an error message and prompt until the user enters a valid choice. See Sample Run below.
 
@@ -145,13 +145,13 @@ Thank you for using my Vending Machine Program!
 
 
 
-* To get started, open the [Assignment Template File](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/main.cpp), and make a copy.
+* To get started, open the [Assignment Template File](main.cpp), and make a copy.
 
 * Complete all sections of the Assignment Template File. 
 
-* You must express your algorithm as **pseudocode.** [Pseudocode Reference](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/Pseudocode-Reference.txt)
+* You must express your algorithm as **pseudocode.** [Pseudocode Reference](Pseudocode-Reference.txt)
 
-* Check out Sample Assignment A06 \- [Sample6 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a6-sample.cpp)
+* Check out Sample Assignment A06 \- [Sample6 Code](a6-sample.cpp)
 
 * **Follow these Coding Construct Requirements:**
 

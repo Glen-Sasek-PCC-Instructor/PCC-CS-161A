@@ -18,7 +18,7 @@ After completing this assignment you will be able to:
 
 ## Task
 
-* Please see [Sample7 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a7-sample.cpp) 
+* Please see [Sample7 Code](a7-sample.cpp) 
 
 * You will write a program to read the number of assignments from the user. Then read the assignment scores, the midterm and final exam scores. Calculate the average assignment scores and then calculate the final numeric score using the assignments average, the midterm and final exam scores. The assignments are weighted at 60%, the midterm and final exams are weighted at 20% each. The final score will be calculated out of 4 and the letter grade will be based on the following table. Check the Sample Run and do the calculations on paper and make sure you get the right answers before you write the code.
 
@@ -50,7 +50,7 @@ After completing this assignment you will be able to:
 
 * You may not use a while true loop and break statements in the loop.
 
-* Your program must check for valid input data. For example, it should not accept negative numbers for scores and all scores must be between 0 and 4 inclusive. Use loops to repeat until you get valid data from the user. Check out the [Sample 8 code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a8-sample.cpp) that has a readInt function that can be used to check for valid data. You can add the negative number check criteria to that function.
+* Your program must check for valid input data. For example, it should not accept negative numbers for scores and all scores must be between 0 and 4 inclusive. Use loops to repeat until you get valid data from the user. Check out the [Sample 8 code](a8-sample.cpp) that has a readInt function that can be used to check for valid data. You can add the negative number check criteria to that function.
 
 * Try not to have any redundant code (repeated code) in your program. That is the purpose of functions.
 
@@ -131,15 +131,15 @@ Your Final Grade is A
 Thank you for using my Grade Calculator!
 ```
 
-* To get started, open the [Assignment Template File](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/main.cpp), and make a copy.
+* To get started, open the [Assignment Template File](main.cpp), and make a copy.
 
 * Complete all sections of the Assignment Template File. 
 
-* You must express your algorithm as **pseudocode.** [Pseudocode Reference](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/Pseudocode-Reference.txt)
+* You must express your algorithm as **pseudocode.** [Pseudocode Reference](Pseudocode-Reference.txt)
  
-* Please see [Sample7 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a7-sample.cpp) 
+* Please see [Sample7 Code](a7-sample.cpp) 
 
-* Please see [Sample8 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a8-sample.cpp) 
+* Please see [Sample8 Code](a8-sample.cpp) 
 
 * **Follow these Coding Construct Requirements:**
 

@@ -110,13 +110,13 @@ Maximum cost of pizzas: $115.17
 Thank you for using my program!
 ```
 
-* To get started, open the [Assignment Template File](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/main.cpp), and make a copy.
+* To get started, open the [Assignment Template File](main.cpp), and make a copy.
 
 * Complete all sections of the Assignment Template File. 
 
-* You must express your algorithm as **pseudocode.** [Pseudocode Reference](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/Pseudocode-Reference.txt)
+* You must express your algorithm as **pseudocode.** [Pseudocode Reference](Pseudocode-Reference.txt)
 
-* Check out Sample Assignment A05 \- [Sample5 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a5-sample.cpp)
+* Check out Sample Assignment A05 \- [Sample5 Code](a5-sample.cpp)
 
 * Complete zyBooks section **CS161A 5\. Loops Part I** activities.
 

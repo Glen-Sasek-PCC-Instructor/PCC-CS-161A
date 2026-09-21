@@ -20,7 +20,7 @@ After completing this assignment you will be able to:
 
 * Before you get started:
 
-  * Check out Sample Assignment A08 \- [Sample 8 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a8-sample.cpp)
+  * Check out Sample Assignment A08 \- [Sample 8 Code](a8-sample.cpp)
 
 * You must express your algorithm as **pseudocode** or a **flowchart.**
 
@@ -54,7 +54,7 @@ After completing this assignment you will be able to:
 
 * You may not use a while true loop and break statements in the loop.
 
-* Your program must check for valid input data. For example, it should not accept negative numbers for scores and all scores must be between 0 and 4 inclusive. Use loops to repeat until you get valid data from the user. Check out [sample 8 code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a8-sample.cpp) that has a readInt function that can be used to check for valid data. You can add the negative number check criteria to that function.
+* Your program must check for valid input data. For example, it should not accept negative numbers for scores and all scores must be between 0 and 4 inclusive. Use loops to repeat until you get valid data from the user. Check out [sample 8 code](a8-sample.cpp) that has a readInt function that can be used to check for valid data. You can add the negative number check criteria to that function.
 
 * Try not to have any redundant code (repeated code) in your program. That is the purpose of functions.
 
@@ -128,13 +128,13 @@ Your Final Grade is A
 Thank you for using my Grade Calculator!
 ```
 
-* To get started, open the [Assignment Template File](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/main.cpp), and make a copy.
+* To get started, open the [Assignment Template File](main.cpp), and make a copy.
 
 * Complete all sections of the Assignment Template File. 
 
-* You must express your algorithm as **pseudocode.** [Pseudocode Reference](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/Pseudocode-Reference.txt)
+* You must express your algorithm as **pseudocode.** [Pseudocode Reference](Pseudocode-Reference.txt)
 
-* Check out [sample 8 code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a8-sample.cpp) 
+* Check out [sample 8 code](a8-sample.cpp) 
 
 
 * **Follow these Coding Construct Requirements:**

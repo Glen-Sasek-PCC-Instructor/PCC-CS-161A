@@ -100,13 +100,13 @@ The maximum number entered was 10 entered in position 1.
 Thank you for using my program.
 ```
 
-* To get started, open the [Assignment Template File](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/main.cpp), and make a copy.
+* To get started, open the [Assignment Template File](main.cpp), and make a copy.
 
 * Complete all sections of the Assignment Template File. 
 
-* You must express your algorithm as **pseudocode.** [Pseudocode Reference](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/Pseudocode-Reference.txt)
+* You must express your algorithm as **pseudocode.** [Pseudocode Reference](Pseudocode-Reference.txt)
 
-* Check out Sample Assignment A09 \- [Sample9 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a9-sample.cpp)
+* Check out Sample Assignment A09 \- [Sample9 Code](a9-sample.cpp)
 
 * Complete all sections of your Algorithmic Design Document. 
 

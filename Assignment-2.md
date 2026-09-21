@@ -19,7 +19,7 @@ After completing this assignment you will be able to:
 
 * Before you get started:
 
-  * Check out Sample Assignment A02 \- [Sample2Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a2-sample.cpp)
+  * Check out Sample Assignment A02 \- [Sample2Code](a2-sample.cpp)
 
 
 * Oreo Cookies would like you to write a program for their website. The program should prompt the user for the number of cookies they have eaten and display the number of servings and total calories. The program should perform the following steps:
@@ -68,11 +68,11 @@ You consumed 96.0 calories.
 Keep eating Oreos!
 ```
 
-* To get started, open the [Assignment Template File](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/main.cpp), and make a copy.
+* To get started, open the [Assignment Template File](main.cpp), and make a copy.
 
 * Complete all sections of the Assignment Template File. 
 
-* You must express your algorithm as **pseudocode.** [Pseudocode Reference](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/Pseudocode-Reference.txt)
+* You must express your algorithm as **pseudocode.** [Pseudocode Reference](Pseudocode-Reference.txt)
 
 * **Follow these Coding Construct Requirements:**
 

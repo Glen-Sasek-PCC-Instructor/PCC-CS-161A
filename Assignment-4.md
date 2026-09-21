@@ -18,7 +18,7 @@ After completing this assignment you will be able to:
 
 * Before you get started:
 
-  * Check out Sample Assignment A04 \- [Sample4Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a4-sample.cpp)
+  * Check out Sample Assignment A04 \- [Sample4Code](a4-sample.cpp)
 
 
 * Your task is to write a program that reads two phrases on separate lines and outputs one of the four responses: (See Sample Run below in [Criteria for Success](#criteria-for-success))
@@ -99,11 +99,11 @@ rock and a hard place
 Thank you for using my program!
 ```
 
-* To get started, open the [Assignment Template File](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/main.cpp), and make a copy.
+* To get started, open the [Assignment Template File](main.cpp), and make a copy.
 
 * Complete all sections of the Assignment Template File. 
 
-* You must express your algorithm as **pseudocode.** [Pseudocode Reference](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/Pseudocode-Reference.txt)
+* You must express your algorithm as **pseudocode.** [Pseudocode Reference](Pseudocode-Reference.txt)
 
 * Complete zyBooks section **CS161A 4\. Conditionals Part II** activities.
 

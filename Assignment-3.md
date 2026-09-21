@@ -19,7 +19,7 @@ For optional fun, we recommend you check out  [Washington State Ferries Vehicle 
 
 * Before you get started:
 
-  * Check out Sample Assignment A03 \- [Sample3Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a3-sample.cpp)
+  * Check out Sample Assignment A03 \- [Sample3Code](a3-sample.cpp)
 
 
 
@@ -176,11 +176,11 @@ Uh oh!! Too many people in your group. Split into 2 groups and try again!
 Thank you for using Washington State Ferries Fare Calculator!
 ```
 
-* To get started, open the [Assignment Template File](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/main.cpp), and make a copy.
+* To get started, open the [Assignment Template File](main.cpp), and make a copy.
 
 * Complete all sections of the Assignment Template File. 
 
-* You must express your algorithm as **pseudocode.** [Pseudocode Reference](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/Pseudocode-Reference.txt)
+* You must express your algorithm as **pseudocode.** [Pseudocode Reference](Pseudocode-Reference.txt)
 
 
 * **Follow these Coding Construct Requirements:**

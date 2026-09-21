@@ -21,7 +21,7 @@ After completing this assignment you will be able to:
 
 * Before you get started:
 
-  * Check out the Sample Assignment 01 code \- [Sample1 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a1-sample.cpp)
+  * Check out the Sample Assignment 01 code \- [Sample1 Code](a1-sample.cpp)
 
 * To implement a simply weekly payroll program you will do the following:
 
@@ -51,13 +51,13 @@ After completing this assignment you will be able to:
 
     \-Net Pay
 
-    The [Sample1 Code](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/a1-sample.cpp) shows you how to do this. 
+    The [Sample1 Code](a1-sample.cpp) shows you how to do this. 
 
-* To get started, open the [Assignment Template File](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/main.cpp), and make a copy.
+* To get started, open the [Assignment Template File](main.cpp), and make a copy.
 
 * Complete all sections of the Assignment Template File. 
 
-* You must express your algorithm as **pseudocode.** [Pseudocode Reference](https://github.com/Glen-Sasek-PCC-Instructor/2025-06-22/blob/main/Pseudocode-Reference.txt)
+* You must express your algorithm as **pseudocode.** [Pseudocode Reference](Pseudocode-Reference.txt)
 
 * First do this calculation on paper and pencil and make sure you get the same answers as my two sample runs shown below in the Criteria for Success.
 
