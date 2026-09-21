@@ -1,7 +1,7 @@
 // ------------- FILE HEADER -------------
-// Author ✅: 
-// Assignment ✅:
-// Date ✅:
+// Author: 
+// Assignment:
+// Date:
 // Citations: 
 
 
@@ -15,7 +15,7 @@ using namespace std;
 
 // Main function
 // https://en.cppreference.com/w/cpp/language/main_function.html
-int main(int argc, char* argv[]) {
+int main() {
   cout << "Hello, World!" << endl;
   return 0;
 }
@@ -50,5 +50,7 @@ Pseudocode-Reference.txt
 
 SAMPLE RUNS
 Copy from assignment document.
+
+Additional sample runs.
 
 */
